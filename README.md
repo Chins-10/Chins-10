@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chins-10/Data-Analyst-Portfolio](https://github.com/Chins-10/Data-Analyst-Portfolio)
 
-- 📫 How to reach me **chinsap2gmail.com**
+- 📫 How to reach me **chinsap@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
