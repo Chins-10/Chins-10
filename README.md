@@ -21,7 +21,7 @@ Currently building CareerAI — an AI-powered job search platform — leading co
 |---|---|---|
 | 🎯 CareerAI Enterprise Dashboard | B2B admin dashboard for universities and bootcamps — student onboarding, pipeline tracking, interview prep analytics | [View →](https://silver-sprite-84e615.netlify.app) |
 | 📊 CareerAI Stakeholder Report | Pre-sprint strategy document — competitive analysis, sentiment data, QA findings, sprint plan | [View →](your-github-pages-link) |
-| 🔍 Jobright AI Competitive Analysis | Full competitive analysis with SWOT, feature matrix, and market recommendations | [View →](your-github-pages-link) |
+| 🔍 Jobright AI Competitive Analysis | Full competitive analysis with SWOT, feature matrix, and market recommendations | [View →](https://github.com/Chins-10/CareerAI-competitive-Analysis) |
 
 ---
 
