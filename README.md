@@ -1,9 +1,9 @@
 # Chinmayee Gorugonthu
-### Technical Product Manager · Data Scientist · Software Engineer
+### Technical Product Owner · Data Engineer · Software Engineer
 
 📍 Clarksville, Tennessee  
-📧 chinnu.gvp@gmail.com  
-🔗 [LinkedIn](your-linkedin-url)
+📧 chinmayeegorugonthu@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/chinmayee-gorugonthu-99b220195/)
 
 ---
 
